@@ -1,4 +1,6 @@
-# Desafio de programação orientada a objetos
+# **Codenation** + **Stone Co**. - Aceleradev Python - **Semana 2**
+
+## Desafio de programação orientada a objetos
 
    
 Uma pequena empresa em crescimento precisa de uma modelagem de dados dinâmica! que permita a expansão de seus usuários e departamentos, e que matenha ou melhore a segurança, padrões e boas práticas, refatore o código proposto.
